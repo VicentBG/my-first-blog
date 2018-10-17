@@ -55,7 +55,7 @@
 
 ## 3. MAPA DEL SITIO WEB
 
-![Mapa Sitio Web](./images/mapaWeb.png "Mapa Sitio Web")
+![Mapa Sitio Web](./mysite/mapaWeb.png "Mapa Sitio Web")
 
 ***
 
@@ -63,7 +63,7 @@
 
 ## 4. DIAGRAMA DE FLUJO DEL DESARROLLO DE UNA PARTIDA
   
-![Diagrama Flujo Partida](./images/diagramaFlujo.png "Daigrama Flujo Partida")
+![Diagrama Flujo Partida](./mysite/diagramaFlujo.png "Daigrama Flujo Partida")
 
 ***
 
@@ -73,26 +73,26 @@
 
 ### 1. PARA ORDENADOR:
 
-![Modelo Alámbrico Ordenador1](./images/modAlamb1.png "Modelo Alámbrico Ordenador1")
+![Modelo Alámbrico Ordenador1](./mysite/modAlamb1.png "Modelo Alámbrico Ordenador1")
 
-![Modelo Alámbrico Ordenador2](./images/modAlamb2.png "Modelo Alámbrico Ordenador2")
+![Modelo Alámbrico Ordenador2](./mysite/modAlamb2.png "Modelo Alámbrico Ordenador2")
 
 ***
   
 
 ### 2. PARA TABLETA:
 
-![Modelo Alámbrico Tableta1](./images/modAlamb3.png "Modelo Alámbrico Tableta1")
+![Modelo Alámbrico Tableta1](./mysite/modAlamb3.png "Modelo Alámbrico Tableta1")
 
-![Modelo Alámbrico Tableta2](./images/modAlamb4.png "Modelo Alámbrico Tableta2")
+![Modelo Alámbrico Tableta2](./mysite/modAlamb4.png "Modelo Alámbrico Tableta2")
 
 ***
   
 
 ### 3. PARA MÓVIL:
 
-![Modelo Alámbrico Móvil1](./images/modAlamb5.png "Modelo Alámbrico Móvil1")
+![Modelo Alámbrico Móvil1](./mysite/modAlamb5.png "Modelo Alámbrico Móvil1")
 
-![Modelo Alámbrico Móvil2](./images/modAlamb6.png "Modelo Alámbrico Móvil2")
+![Modelo Alámbrico Móvil2](./mysite/modAlamb6.png "Modelo Alámbrico Móvil2")
 
 ***
