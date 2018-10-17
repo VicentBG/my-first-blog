@@ -47,7 +47,7 @@
 
 ## 2. MAPA CONCEPTUAL DEL ÁREA DE SCRABBLE
 
-![Mapa Conceptual Scrabble](./mapaConceptual.png "Mapa Conceptual Scrabble")
+![Mapa Conceptual Scrabble](./mysite/mapaConceptual.png "Mapa Conceptual Scrabble")
 
 ***
 
